@@ -1,0 +1,273 @@
+<CC044A>
+    <SynIdeMES1>UNOC</SynIdeMES1>
+    <SynVerNumMES2>3</SynVerNumMES2>
+
+    <MesRecMES6>NCTS</MesRecMES6>
+    <DatOfPreMES9>20191015</DatOfPreMES9>
+    <TimOfPreMES10>1129</TimOfPreMES10>
+    <IntConRefMES11>WE191015102567</IntConRefMES11>
+    <AppRefMES14>NCTS</AppRefMES14>
+    <TesIndMES18>0</TesIndMES18>
+    <MesIdeMES19>1</MesIdeMES19>
+    <MesTypMES20>GB044A</MesTypMES20>
+    <HEAHEA>
+        <DocNumHEA5>20GB00006010024812</DocNumHEA5>
+        <IdeOfMeaOfTraAtDHEA78>Websols Analysis</IdeOfMeaOfTraAtDHEA78>
+        <IdeOfMeaOfTraAtDHEA78LNG>EN</IdeOfMeaOfTraAtDHEA78LNG>
+        <NatOfMeaOfTraAtDHEA80>IT</NatOfMeaOfTraAtDHEA80>
+        <TotNumOfIteHEA305>3</TotNumOfIteHEA305>
+        <TotNumOfPacHEA306>6</TotNumOfPacHEA306>
+        <TotGroMasHEA307>6000</TotGroMasHEA307>
+    </HEAHEA>
+    <TRADESTRD>
+        <NamTRD7>The Luggage Carriers</NamTRD7>
+        <StrAndNumTRD22>225 Suedopolish Yard,</StrAndNumTRD22>
+        <CitTRD24>,</CitTRD24>
+        <CouTRD25>GB</CouTRD25>
+        <NADLNGRD>EN</NADLNGRD>
+        <TINTRD59>GB163910077000</TINTRD59>
+    </TRADESTRD>
+    <CUSOFFPREOFFRES>
+        <RefNumRES1>GB000060</RefNumRES1>
+    </CUSOFFPREOFFRES>
+    <UNLREMREM>
+        <StaOfTheSeaOKREM19>0</StaOfTheSeaOKREM19>
+        <UnlRemREM53>HEADER PAGE Other things to report. Updated Total number of packages 6 to 8, Total gross mass kg 6 to 8, Identities of seals updated each and added 2 new seals.</UnlRemREM53>
+        <UnlRemREM53LNG>EN</UnlRemREM53LNG>
+        <ConREM65>0</ConREM65>
+        <UnlComREM66>1</UnlComREM66>
+        <UnlDatREM67>20190101</UnlDatREM67>
+    </UNLREMREM>
+    <RESOFCON534>
+        <DesTOC2LNG>EN</DesTOC2LNG>
+        <ConInd424>DI</ConInd424>
+        <PoiToTheAttTOC5>6</PoiToTheAttTOC5>
+        <CorValTOC4>8</CorValTOC4>
+    </RESOFCON534>
+    <RESOFCON534>
+        <DesTOC2LNG>EN</DesTOC2LNG>
+        <ConInd424>DI</ConInd424>
+        <PoiToTheAttTOC5>35</PoiToTheAttTOC5>
+        <CorValTOC4>12000</CorValTOC4>
+    </RESOFCON534>
+    <RESOFCON534>
+        <DesTOC2>HEADER PAGE Other things to report. Updated Total number of packages 6 to 8, Total gross mass kg 6 to 8, Identities of seals updated each an</DesTOC2>
+        <DesTOC2LNG>EN</DesTOC2LNG>
+        <ConInd424>OT</ConInd424>
+    </RESOFCON534>
+    <SEAINFSLI>
+    </SEAINFSLI>
+    <GOOITEGDS>
+        <IteNumGDS7>1</IteNumGDS7>
+        <GooDesGDS23>Windsurfing equipment</GooDesGDS23>
+        <GooDesGDS23LNG>EN</GooDesGDS23LNG>
+        <GroMasGDS46>1000</GroMasGDS46>
+        <NetMasGDS48>999</NetMasGDS48>
+        <PRODOCDC2>
+            <DocTypDC21>235</DocTypDC21>
+            <DocRefDC23>Websols#001</DocRefDC23>
+            <DocRefDCLNG>EN</DocRefDCLNG>
+        </PRODOCDC2>
+        <RESOFCONROC>
+            <ConIndROC1>OR</ConIndROC1>
+        </RESOFCONROC>
+        <CONNR2>
+            <ConNumNR21>C1.Websols#01.01</ConNumNR21>
+        </CONNR2>
+        <PACGS2>
+            <MarNumOfPacGS21>Item 1 Pack 1 - Windsurfing equp</MarNumOfPacGS21>
+            <MarNumOfPacGS21LNG>EN</MarNumOfPacGS21LNG>
+            <KinOfPacGS23>BX</KinOfPacGS23>
+            <NumOfPacGS24>1</NumOfPacGS24>
+        </PACGS2>
+    </GOOITEGDS>
+    <GOOITEGDS>
+        <IteNumGDS7>1</IteNumGDS7>
+        <RESOFCONROC>
+            <ConIndROC1>DI</ConIndROC1>
+        </RESOFCONROC>
+    </GOOITEGDS>
+    <GOOITEGDS>
+        <IteNumGDS7>2</IteNumGDS7>
+        <GooDesGDS23>Kitesurfing Equipment</GooDesGDS23>
+        <GooDesGDS23LNG>EN</GooDesGDS23LNG>
+        <GroMasGDS46>2000</GroMasGDS46>
+        <NetMasGDS48>1998</NetMasGDS48>
+        <PRODOCDC2>
+            <DocTypDC21>235</DocTypDC21>
+            <DocRefDC23>Websols#001</DocRefDC23>
+            <DocRefDCLNG>EN</DocRefDCLNG>
+        </PRODOCDC2>
+        <RESOFCONROC>
+            <ConIndROC1>OR</ConIndROC1>
+        </RESOFCONROC>
+        <CONNR2>
+            <ConNumNR21>C2.Websols#02.01</ConNumNR21>
+        </CONNR2>
+        <PACGS2>
+            <MarNumOfPacGS21>Item 2 Pack 1 - Windsurfing equp</MarNumOfPacGS21>
+            <MarNumOfPacGS21LNG>EN</MarNumOfPacGS21LNG>
+            <KinOfPacGS23>BX</KinOfPacGS23>
+            <NumOfPacGS24>1</NumOfPacGS24>
+        </PACGS2>
+        <PACGS2>
+            <MarNumOfPacGS21>Item 2 Pack 2 - Windsurfing equp</MarNumOfPacGS21>
+            <MarNumOfPacGS21LNG>EN</MarNumOfPacGS21LNG>
+            <KinOfPacGS23>BX</KinOfPacGS23>
+            <NumOfPacGS24>1</NumOfPacGS24>
+        </PACGS2>
+    </GOOITEGDS>
+    <GOOITEGDS>
+        <IteNumGDS7>2</IteNumGDS7>
+        <GooDesGDS23>Kitesurfing Equipment</GooDesGDS23>
+        <GooDesGDS23LNG>EN</GooDesGDS23LNG>
+        <GroMasGDS46>4000</GroMasGDS46>
+        <NetMasGDS48>3996</NetMasGDS48>
+        <PRODOCDC2>
+            <DocTypDC21>235</DocTypDC21>
+            <DocRefDC23>Websols#001</DocRefDC23>
+            <DocRefDCLNG>EN</DocRefDCLNG>
+        </PRODOCDC2>
+        <PRODOCDC2>
+            <DocTypDC21>ZZZ</DocTypDC21>
+            <DocRefDC23>NEW Doc</DocRefDC23>
+            <DocRefDCLNG>EN</DocRefDCLNG>
+        </PRODOCDC2>
+        <RESOFCONROC>
+            <ConIndROC1>DI</ConIndROC1>
+        </RESOFCONROC>
+        <RESOFCONROC>
+            <DesROC2>Item 2 Other things to report, updated Gross mass, Net mass, added new package, updated Container numbers &amp; added 2 new, added new doc.</DesROC2>
+            <DesROC2LNG>EN</DesROC2LNG>
+            <ConIndROC1>OT</ConIndROC1>
+        </RESOFCONROC>
+        <CONNR2>
+            <ConNumNR21>C2.Websols#02.01N</ConNumNR21>
+        </CONNR2>
+        <CONNR2>
+            <ConNumNR21>Item2 NEW CNTNR01</ConNumNR21>
+        </CONNR2>
+        <CONNR2>
+            <ConNumNR21>Item2 NEW CNTNR02</ConNumNR21>
+        </CONNR2>
+        <PACGS2>
+            <MarNumOfPacGS21>Item 2 Pack 1 - Windsurfing equp</MarNumOfPacGS21>
+            <MarNumOfPacGS21LNG>EN</MarNumOfPacGS21LNG>
+            <KinOfPacGS23>BX</KinOfPacGS23>
+            <NumOfPacGS24>1</NumOfPacGS24>
+        </PACGS2>
+        <PACGS2>
+            <MarNumOfPacGS21>Item 2 Pack 2 - Windsurfing equp</MarNumOfPacGS21>
+            <MarNumOfPacGS21LNG>EN</MarNumOfPacGS21LNG>
+            <KinOfPacGS23>BX</KinOfPacGS23>
+            <NumOfPacGS24>1</NumOfPacGS24>
+        </PACGS2>
+        <PACGS2>
+            <MarNumOfPacGS21>NEW Pack found for item 3</MarNumOfPacGS21>
+            <MarNumOfPacGS21LNG>EN</MarNumOfPacGS21LNG>
+            <KinOfPacGS23>BX</KinOfPacGS23>
+            <NumOfPacGS24>2</NumOfPacGS24>
+        </PACGS2>
+    </GOOITEGDS>
+    <GOOITEGDS>
+        <IteNumGDS7>3</IteNumGDS7>
+        <GooDesGDS23>SUP Equipment</GooDesGDS23>
+        <GooDesGDS23LNG>EN</GooDesGDS23LNG>
+        <GroMasGDS46>3000</GroMasGDS46>
+        <NetMasGDS48>2997</NetMasGDS48>
+        <PRODOCDC2>
+            <DocTypDC21>235</DocTypDC21>
+            <DocRefDC23>Websols#001</DocRefDC23>
+            <DocRefDCLNG>EN</DocRefDCLNG>
+        </PRODOCDC2>
+        <RESOFCONROC>
+            <ConIndROC1>OR</ConIndROC1>
+        </RESOFCONROC>
+        <CONNR2>
+            <ConNumNR21>C3.Websols#03.01</ConNumNR21>
+        </CONNR2>
+        <PACGS2>
+            <MarNumOfPacGS21>Item 3 Pack 1 - Windsurfing equp</MarNumOfPacGS21>
+            <MarNumOfPacGS21LNG>EN</MarNumOfPacGS21LNG>
+            <KinOfPacGS23>BX</KinOfPacGS23>
+            <NumOfPacGS24>1</NumOfPacGS24>
+        </PACGS2>
+        <PACGS2>
+            <MarNumOfPacGS21>Item 3 Pack 2 - Windsurfing equp</MarNumOfPacGS21>
+            <MarNumOfPacGS21LNG>EN</MarNumOfPacGS21LNG>
+            <KinOfPacGS23>BX</KinOfPacGS23>
+            <NumOfPacGS24>1</NumOfPacGS24>
+        </PACGS2>
+        <PACGS2>
+            <MarNumOfPacGS21>Item 3 Pack 3 - Windsurfing equp</MarNumOfPacGS21>
+            <MarNumOfPacGS21LNG>EN</MarNumOfPacGS21LNG>
+            <KinOfPacGS23>BX</KinOfPacGS23>
+            <NumOfPacGS24>1</NumOfPacGS24>
+        </PACGS2>
+    </GOOITEGDS>
+    <GOOITEGDS>
+        <IteNumGDS7>3</IteNumGDS7>
+        <GooDesGDS23>SUP Equipment</GooDesGDS23>
+        <GooDesGDS23LNG>EN</GooDesGDS23LNG>
+        <GroMasGDS46>6000</GroMasGDS46>
+        <NetMasGDS48>5994</NetMasGDS48>
+        <PRODOCDC2>
+            <DocTypDC21>235</DocTypDC21>
+            <DocRefDC23>Websols#001</DocRefDC23>
+            <DocRefDCLNG>EN</DocRefDCLNG>
+        </PRODOCDC2>
+        <RESOFCONROC>
+            <ConIndROC1>DI</ConIndROC1>
+        </RESOFCONROC>
+        <RESOFCONROC>
+            <DesROC2>Item 2 Other things to report. updated Gross mass (kg) and Net mass (kg)</DesROC2>
+            <DesROC2LNG>EN</DesROC2LNG>
+            <ConIndROC1>OT</ConIndROC1>
+        </RESOFCONROC>
+        <CONNR2>
+            <ConNumNR21>C3.Websols#03.01</ConNumNR21>
+        </CONNR2>
+        <PACGS2>
+            <MarNumOfPacGS21>Item 3 Pack 1 - Windsurfing equp</MarNumOfPacGS21>
+            <MarNumOfPacGS21LNG>EN</MarNumOfPacGS21LNG>
+            <KinOfPacGS23>BX</KinOfPacGS23>
+            <NumOfPacGS24>1</NumOfPacGS24>
+        </PACGS2>
+        <PACGS2>
+            <MarNumOfPacGS21>Item 3 Pack 2 - Windsurfing equp</MarNumOfPacGS21>
+            <MarNumOfPacGS21LNG>EN</MarNumOfPacGS21LNG>
+            <KinOfPacGS23>BX</KinOfPacGS23>
+            <NumOfPacGS24>1</NumOfPacGS24>
+        </PACGS2>
+        <PACGS2>
+            <MarNumOfPacGS21>Item 3 Pack 3 - Windsurfing equp</MarNumOfPacGS21>
+            <MarNumOfPacGS21LNG>EN</MarNumOfPacGS21LNG>
+            <KinOfPacGS23>BX</KinOfPacGS23>
+            <NumOfPacGS24>1</NumOfPacGS24>
+        </PACGS2>
+    </GOOITEGDS>
+    <GOOITEGDS>
+        <IteNumGDS7>4</IteNumGDS7>
+        <GooDesGDS23>Foils - Wind/Kite/SUP</GooDesGDS23>
+        <GooDesGDS23LNG>EN</GooDesGDS23LNG>
+        <GroMasGDS46>2000</GroMasGDS46>
+        <NetMasGDS48>1998</NetMasGDS48>
+        <PRODOCDC2>
+            <DocTypDC21>235</DocTypDC21>
+            <DocRefDC23>Websols#001</DocRefDC23>
+            <DocRefDCLNG>EN</DocRefDCLNG>
+        </PRODOCDC2>
+        <RESOFCONROC>
+            <ConIndROC1>NE</ConIndROC1>
+        </RESOFCONROC>
+        <CONNR2>
+            <ConNumNR21>NC4.Websols#04.01</ConNumNR21>
+        </CONNR2>
+        <PACGS2>
+            <MarNumOfPacGS21>NEW Item 4 - Foils</MarNumOfPacGS21>
+            <MarNumOfPacGS21LNG>EN</MarNumOfPacGS21LNG>
+            <KinOfPacGS23>BX</KinOfPacGS23>
+            <NumOfPacGS24>1</NumOfPacGS24>
+        </PACGS2>
+    </GOOITEGDS>
+</CC044A>
