@@ -23,7 +23,6 @@ public class xmlIE007Editor {
 
         Collection<Server> servers = new ArrayList<Server>();
         servers.add(new Server());
-
         for (Server server : servers) {
             // server elements
             for(int i=1;i<=sealsToBeAdded;i++)
