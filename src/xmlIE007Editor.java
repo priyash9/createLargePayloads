@@ -17,7 +17,6 @@ public class xmlIE007Editor {
         Element root = document.getDocumentElement();
         int sealsToBeAdded = 10;
         Element sealNumTag =  (Element)root.getElementsByTagName("SEAINFSF1").item(0);
-
         Element sealNum = document.createElement("SeaNumSF12");
         sealNum.appendChild(document.createTextNode(Integer.toString(sealsToBeAdded)));
         sealNumTag.appendChild(sealNum);
