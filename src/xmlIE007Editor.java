@@ -42,7 +42,6 @@ public class xmlIE007Editor {
                 port.appendChild(document.createTextNode(server.getSeaIdeSI11LNG()));
                 newServer.appendChild(port);
                 newServer.appendChild(document.createTextNode("\n"));
-
                 sealNumTag.appendChild(newServer);
                 sealNumTag.appendChild(document.createTextNode("\n"));
             }

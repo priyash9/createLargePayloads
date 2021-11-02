@@ -12,7 +12,6 @@ public class xmlIE015Editor {
         Document document = documentBuilder.parse("IE015.xml");
         Element root = document.getDocumentElement();
         Element sealNumTag =  (Element)root.getElementsByTagName("SEAINFSLI").item(0);
-
         int j=1;
 
         Collection<Server> servers = new ArrayList<Server>();
