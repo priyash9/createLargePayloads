@@ -50,14 +50,11 @@ public class xmlIE007Editor {
         DOMSource source = new DOMSource(document);
         TransformerFactory transformerFactory = TransformerFactory.newInstance();
         Transformer transformer = transformerFactory.newTransformer();
-
         StreamResult result = new StreamResult("IE007.xml");
         transformer.setOutputProperty(OutputKeys.INDENT, "yes");
         transformer.setOutputProperty(OutputKeys.DOCTYPE_PUBLIC,"yes");
         transformer.setOutputProperty("{http://xml.apache.org/xslt}indent-amount", "2");
         transformer.transform(source, result);
-        //PrettyPrinter.prettyPrintXml();
-
     }
     public static class Server {
         public String getSeaIdeSI11(int i) { return "seal_"+i+""; }
