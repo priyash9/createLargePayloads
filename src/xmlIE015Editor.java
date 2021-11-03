@@ -22,8 +22,6 @@ public class xmlIE015Editor {
             for(int i=1;i<=9999;i++)
             {
                 Element newServer = document.createElement("SEAIDSID");
-                //newServer.appendChild(document.createTextNode("\n"));
-
                 Element name = document.createElement("SeaIdeSID1");
                 name.appendChild(document.createTextNode(server.getSeaIdeSI11(i)));
 
